@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #e4db81;
+  background-image: url(the-original-backrooms-wallpaper-texture-v0-hdcmfpdh37ya1.webp);
+  background-repeat: repeat;
+  background-size: auto;
+
+}
+
+#question {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.option {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  background-color: #e4db81;
+  
+}
+
+.option:hover {
+  background-color: #aca55e;
+}
+
+#score {
+  font-size: 20px;
+}
+
